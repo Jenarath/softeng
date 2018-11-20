@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "790917959990",
+    "firebase_url": "https://delish-c53e3.firebaseio.com",
+    "project_id": "delish-c53e3",
+    "storage_bucket": "delish-c53e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790917959990:android:f180945a3f85fe67",
+        "android_client_info": {
+          "package_name": "delish.jenarath.com.delish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790917959990-r3ui53sglht4dvmth227255nll8k96q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "delish.jenarath.com.delish",
+            "certificate_hash": "97c3afb9fa6bf5723c47116f843aff806b99b7e1"
+          }
+        },
+        {
+          "client_id": "790917959990-8nm5vmtod5vek51us2j6h4nli5ucdndk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfGmeRLRxR8TGXkcDXUNHOPCt1G6K7hE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790917959990-8nm5vmtod5vek51us2j6h4nli5ucdndk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790917959990:android:13058e5d3200cc2f",
+        "android_client_info": {
+          "package_name": "delish.jenarath.com.delishapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790917959990-avjdvak4kv3a0j5njdbj2sncgg71mto6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "delish.jenarath.com.delishapplication",
+            "certificate_hash": "97c3afb9fa6bf5723c47116f843aff806b99b7e1"
+          }
+        },
+        {
+          "client_id": "790917959990-8nm5vmtod5vek51us2j6h4nli5ucdndk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfGmeRLRxR8TGXkcDXUNHOPCt1G6K7hE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790917959990-8nm5vmtod5vek51us2j6h4nli5ucdndk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790917959990:android:f044f82de2360057",
+        "android_client_info": {
+          "package_name": "jenarath.com.delish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790917959990-8nm5vmtod5vek51us2j6h4nli5ucdndk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfGmeRLRxR8TGXkcDXUNHOPCt1G6K7hE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Delish Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="ok_alert">Your order has been successfully sent</string>
+    <string name="sending_alert">Sending Data. Please wait</string>
+    <string name="create_forum">Create Forum</string>
+    <string-array name="Type">
+        <item>Question</item>
+        <item>Trick</item>
+    </string-array>
+
+    <string name="facebook_app_id">268773647157842</string> <string name="fb_login_protocol_scheme">fb268773647157842</string>
+
+</resources>
